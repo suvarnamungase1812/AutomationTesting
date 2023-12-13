@@ -5,7 +5,6 @@ public class SinglearrayExample {
         int[] a = {10, 20, 30, 40, 50}; //array Literal
 
         {
-            System.out.println("hello");
             System.out.println(" this is the length of array "+a.length);
             //length keyword variable always start count from 1
 
