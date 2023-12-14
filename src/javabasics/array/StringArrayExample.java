@@ -2,7 +2,7 @@ package javabasics.array;
 
 public class StringArrayExample {
     public static void main(String[] args) {
-        String[] stringarray = {"hi","good","morning","everyone"};
+        String[] stringarray = {"Hello","good","morning","everyone"};
         System.out.println("This is the length of srting = "+  stringarray.length);
         //for(String s:stringarray){
           //  System.out.println(s);
